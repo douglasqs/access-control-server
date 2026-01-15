@@ -1,0 +1,3 @@
+com\example\accesscontrol\ServerApplication.class
+com\example\accesscontrol\controller\RequestController.class
+com\example\accesscontrol\model\Stats.class
